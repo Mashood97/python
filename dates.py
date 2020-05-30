@@ -1,5 +1,9 @@
+
+#import datetime lib whenever using datetime
 from datetime import datetime , timedelta
 
+
+#get current date
 
 currentdate = datetime.now()
 
